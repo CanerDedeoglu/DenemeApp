@@ -1,0 +1,12 @@
+@model List<Bootcamp>;
+
+<h2>Bootcamp Listesi</h2>
+<hr>
+@foreach (var bootcamp in Model)
+{
+   @if (bootcamp.isActive)
+   {
+      @await Html.PartialAsync("_List", bootcamp)
+      ;
+   }
+}
