@@ -1,7 +1,8 @@
-<h1>DenemeApp
+<h1>DenemeApp</h1>
 DenemeApp, ASP.NET Core kullanılarak geliştirilmiş bir web uygulamasıdır. Bu uygulama, MVC mimarisine dayalı modern web uygulaması geliştirme tekniklerini kullanmaktadır.
 
-Özellikler
+<h2>Özellikler</h2>
+
 MVC Yapısı: Uygulama, Model-View-Controller (MVC) mimarisini kullanır. Bu yapı, uygulamanın farklı bileşenlerini (veri modeli, kullanıcı arayüzü, ve kontrol mekanizması) ayrı tutar, böylece daha düzenli ve yönetilebilir kod oluşturulmasını sağlar.
 
 Partial View Yapısı: Yeniden kullanılabilir görünüm parçaları oluşturmak için partial view'ler kullanılmıştır. Bu, kod tekrarını azaltır ve uygulamanın bakımını kolaylaştırır.
