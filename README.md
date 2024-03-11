@@ -1,4 +1,4 @@
-DenemeApp
+<h1>DenemeApp
 DenemeApp, ASP.NET Core kullanılarak geliştirilmiş bir web uygulamasıdır. Bu uygulama, MVC mimarisine dayalı modern web uygulaması geliştirme tekniklerini kullanmaktadır.
 
 Özellikler
